@@ -1,0 +1,67 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title><strong>Better</strong>Blader</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-grid style='height:100%'>
+    <ion-row align-items-center style='height:100%'>
+      <ion-col>
+        <ion-row>
+          <ion-col size='6' offset='3'>
+            <ion-img [src]="profile.image" ></ion-img>
+
+          </ion-col>
+        </ion-row>
+        <ion-row justify-content-center	align-items-center>
+          <ion-col size='6'>
+            <ion-row  justify-content-end>
+              {{profile.surname}}
+
+            </ion-row>
+          </ion-col>
+          <ion-col size='6'>
+            {{profile.name}}
+          </ion-col>
+        </ion-row>
+        <ion-row justify-content-center	 class='smallGreyed'>
+          Joined: {{profile.joinedat}}
+        </ion-row>
+        <ion-row class='panel'>
+          <ion-col offset='1' class='smallGreyed'>
+            <ion-row justify-content-center>
+              <img height="34" width="34" src = './assets/icons/goal@2x.png' style='opacity:0.5;'/>
+            </ion-row>
+            <ion-row justify-content-center>
+              {{profile.sessions}} Sessions
+            </ion-row>
+          </ion-col>
+          <ion-col class='smallGreyed'>
+            <ion-row align-items-center justify-content-center>
+              <img height="34" width="34" src = './assets/icons/circlecheckmark@2x.png' style='opacity:0.5;'/>
+            </ion-row>
+            <ion-row align-items-center justify-content-center>
+              {{profile.tricks}} Done
+            </ion-row>
+          </ion-col>
+          <ion-col class='smallGreyed'>
+            <ion-row  justify-content-center>
+              <img height="34" width="34" src = './assets/icons/clock@2x.png' style='opacity:0.5;'/>
+            </ion-row>
+            <ion-row justify-content-center>
+              {{profile.minutes}}m
+            </ion-row></ion-col>
+        </ion-row>
+
+        <ion-row>
+          <ion-button (click)='continue()' style='width:100%; height:50px; font-size: bold'>
+            <b><font size=3>
+              New Session
+            </font></b>
+          </ion-button>
+        </ion-row>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>

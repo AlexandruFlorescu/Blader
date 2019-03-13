@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "870585135693",
+    "firebase_url": "https://betterblader-8500b.firebaseio.com",
+    "project_id": "betterblader-8500b",
+    "storage_bucket": "betterblader-8500b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870585135693:android:7f24092b1067b9b6",
+        "android_client_info": {
+          "package_name": "io.ionic.BetterBlader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870585135693-3uhs7pti118vbom8tdv5t66o5v1l7gd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.ionic.BetterBlader",
+            "certificate_hash": "eb588c4863cd5be9ffa573f836aa146a07aa206b"
+          }
+        },
+        {
+          "client_id": "870585135693-0e8n1g9bftsumg667apkjn1fkr0igguj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTjuktiL5_lT65W_oupbc9gYjfR1OkZ2c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870585135693-0e8n1g9bftsumg667apkjn1fkr0igguj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "870585135693-l5kv9j4h7feh5afgj0g5892j1q5otv1u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.ionic.BetterBlader"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,12 +1,22 @@
-<ion-header>
-  <ion-toolbar>
-    <ion-title>
-      Ionic Blank
-    </ion-title>
-  </ion-toolbar>
-</ion-header>
 
-<ion-content padding>
-  The world is your oyster.
-  <p>If you get lost, the <a target="_blank" rel="noopener" href="https://ionicframework.com/docs/">docs</a> will be your guide.</p>
+<ion-content  class="background" scroll="false" padding>
+
+  <ion-grid style='height:100%'>
+
+     <ion-row style='height:100%' align-items-center >
+       <ion-col>
+         <ion-row justify-content-center style='margin-bottom: 50px'>
+            <img height="32"  src = './assets/logo/bladebetter-logo@2x.png'/>
+            <font size = '4'>Practice. Level up. Repeat. </font>
+          </ion-row>
+          <ion-button style='width:100%; height:50px; font-size: bold' (click)='continueWithFacebook()'>Continue with Facebook</ion-button>
+          <ion-button style='width:100%; height:50px; font-size: bold' (click)='continueWithGoogle()'>Continue with Google</ion-button>
+          {{userProfile.uid}}
+          <ion-button style='width:100%; height:50px; font-size: bold' (click)='continue()'>Continue(debug)</ion-button>
+          <ion-button style='width:100%; height:50px; font-size: bold' (click)='signOut()'>Sign Out</ion-button>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
+
 </ion-content>

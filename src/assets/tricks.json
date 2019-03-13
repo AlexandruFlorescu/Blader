@@ -1,0 +1,1994 @@
+[ 
+ {
+   "A": "Basic",
+   "B": "001",
+   "C": "Makio",
+   "D": "1",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Basic",
+   "B": "002",
+   "C": "Mizou",
+   "D": "1",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Basic",
+   "B": "003",
+   "C": "Mistrial",
+   "D": "1",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Basic",
+   "B": "004",
+   "C": "Pornstar",
+   "D": "1",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Basic",
+   "B": "005",
+   "C": "Soul",
+   "D": "1",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Basic",
+   "B": "006",
+   "C": "Torque Soul",
+   "D": "1",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Basic",
+   "B": "007",
+   "C": "Acid",
+   "D": "1",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Basic",
+   "B": "008",
+   "C": "X-Grind",
+   "D": "1",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Top + Basic",
+   "B": "009",
+   "C": "Fishbrain",
+   "D": "2.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Top + Basic",
+   "B": "010",
+   "C": "Sweatstance",
+   "D": "2",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Top + Basic",
+   "B": "011",
+   "C": "Top Mistrial",
+   "D": "2",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Top + Basic",
+   "B": "012",
+   "C": "Top Pornstar",
+   "D": "2",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Top + Basic",
+   "B": "013",
+   "C": "Top Soul",
+   "D": "2",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Top + Basic",
+   "B": "014",
+   "C": "Top Soyalle",
+   "D": "2",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Top + Basic",
+   "B": "015",
+   "C": "Top Acid",
+   "D": "2",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Alley-Oop + Basic",
+   "B": "016",
+   "C": "AO Makio",
+   "D": "2.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Alley-Oop + Basic",
+   "B": "017",
+   "C": "AO Mizou",
+   "D": "2",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Alley-Oop + Basic",
+   "B": "018",
+   "C": "AO Mistrial",
+   "D": "2",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Alley-Oop + Basic",
+   "B": "019",
+   "C": "AO Pornstar",
+   "D": "2",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Alley-Oop + Basic",
+   "B": "020",
+   "C": "AO Soul",
+   "D": "2",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Alley-Oop + Basic",
+   "B": "021",
+   "C": "AO Soyal",
+   "D": "2",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Alley-Oop + Basic",
+   "B": "022",
+   "C": "AO Acid",
+   "D": "2",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Alley-Oop + Basic",
+   "B": "023",
+   "C": "AO X-Grind",
+   "D": "2",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Truespin + Basic",
+   "B": "024",
+   "C": "Truespin Makio",
+   "D": "3.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Truespin + Basic",
+   "B": "025",
+   "C": "Truespin Mizou",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Truespin + Basic",
+   "B": "026",
+   "C": "Truespin Mistrial",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Truespin + Basic",
+   "B": "027",
+   "C": "Truespin Pornstar",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Truespin + Basic",
+   "B": "028",
+   "C": "Truespin Soul",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Truespin + Basic",
+   "B": "029",
+   "C": "Truespin Soyal",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Truespin + Basic",
+   "B": "030",
+   "C": "Truespin Acid",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Truespin + Basic",
+   "B": "031",
+   "C": "Truespin X-Grind",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Alley-Oop + Top + Basic",
+   "B": "032",
+   "C": "AO Fishbrain",
+   "D": "3.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Alley-Oop + Top + Basic",
+   "B": "033",
+   "C": "Kindgrind",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Alley-Oop + Top + Basic",
+   "B": "034",
+   "C": "Misfit",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Alley-Oop + Top + Basic",
+   "B": "035",
+   "C": "AO Top Pornstar",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Alley-Oop + Top + Basic",
+   "B": "036",
+   "C": "AO Top Soul",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Alley-Oop + Top + Basic",
+   "B": "037",
+   "C": "AO Top Soyal",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Alley-Oop + Top + Basic",
+   "B": "038",
+   "C": "AO Top Acid",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Basic + Top + Truespin",
+   "B": "039",
+   "C": "Truespin Fishbrain",
+   "D": "4.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Basic + Top + Truespin",
+   "B": "040",
+   "C": "Truespin Kindgrind",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Basic + Top + Truespin",
+   "B": "041",
+   "C": "Truespin Misfit",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Basic + Top + Truespin",
+   "B": "042",
+   "C": "Truespin Top Pornstar",
+   "D": "4.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Basic + Top + Truespin",
+   "B": "043",
+   "C": "Truespin Top Soul",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Basic + Top + Truespin",
+   "B": "044",
+   "C": "Truespin Top Soyal",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Basic + Top + Truespin",
+   "B": "045",
+   "C": "Truespin Top Acid",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Outspin + 360 + Basic",
+   "B": "046",
+   "C": "Outspin 360 Makio",
+   "D": "4.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Outspin + 360 + Basic",
+   "B": "047",
+   "C": "Outspin 360 Mizou",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Outspin + 360 + Basic",
+   "B": "048",
+   "C": "Outspin 360 Mistrial",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Outspin + 360 + Basic",
+   "B": "049",
+   "C": "Outspin 360 Pornstar",
+   "D": "4.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Outspin + 360 + Basic",
+   "B": "050",
+   "C": "Outspin 360 Soul",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Outspin + 360 + Basic",
+   "B": "051",
+   "C": "Outspin 360 Acid",
+   "D": "4.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Outspin + 360 + Basic",
+   "B": "052",
+   "C": "Outspin 360 X-Grind",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Outspin + 360 + Top + Basic ",
+   "B": "053",
+   "C": "Outspin 360 Fishbrain",
+   "D": "5.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Outspin + 360 + Top + Basic ",
+   "B": "054",
+   "C": "Outspin 360 Sweatstance",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Outspin + 360 + Top + Basic ",
+   "B": "055",
+   "C": "Outspin 360 Top Mistrial",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Outspin + 360 + Top + Basic ",
+   "B": "056",
+   "C": "Outspin 360 Top Pornstar",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Outspin + 360 + Top + Basic ",
+   "B": "057",
+   "C": "Outspin 360 Top Soul",
+   "D": "4.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Outspin + 360 + Top + Basic ",
+   "B": "058",
+   "C": "Outspin 360 Top Acid",
+   "D": "4.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Inspin + 360 + Basic",
+   "B": "059",
+   "C": "Inspin 360 Makio",
+   "D": "4.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Inspin + 360 + Basic",
+   "B": "060",
+   "C": "Inspin 360 Mizou",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Inspin + 360 + Basic",
+   "B": "061",
+   "C": "Inspin 360 Mistrial",
+   "D": "4.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Inspin + 360 + Basic",
+   "B": "062",
+   "C": "Inspin 360 Pornstar",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Inspin + 360 + Basic",
+   "B": "063",
+   "C": "Inspin 360 Soul",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Inspin + 360 + Basic",
+   "B": "064",
+   "C": "Inspin 360 Acid",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Inspin + 360 + Basic",
+   "B": "065",
+   "C": "Inspin 360 X-Grind",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Inspin + 360 + Top + Basic ",
+   "B": "066",
+   "C": "Inspin 360 Fishbrain",
+   "D": "6",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Inspin + 360 + Top + Basic ",
+   "B": "067",
+   "C": "Inspin 360 Sweatstance",
+   "D": "5.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Inspin + 360 + Top + Basic ",
+   "B": "068",
+   "C": "Inspin 360 Top Mistrial",
+   "D": "5.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Inspin + 360 + Top + Basic ",
+   "B": "069",
+   "C": "Inspin 360 Top Pornstar",
+   "D": "5.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Inspin + 360 + Top + Basic ",
+   "B": "070",
+   "C": "Inspin 360 Top Soul",
+   "D": "5.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Inspin + 360 + Top + Basic ",
+   "B": "071",
+   "C": "Inspin 360 Top Acid",
+   "D": "5.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Alleyoop + Basic ",
+   "B": "072",
+   "C": "Fullcab AO Makio",
+   "D": "4.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Alleyoop + Basic ",
+   "B": "073",
+   "C": "Fullcab AO Mizou",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Alleyoop + Basic ",
+   "B": "074",
+   "C": "Fullcab AO Mistrial",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Alleyoop + Basic ",
+   "B": "075",
+   "C": "Fullcab AO Pornstar",
+   "D": "4.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Alleyoop + Basic ",
+   "B": "076",
+   "C": "Fullcab AO Soul",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Alleyoop + Basic ",
+   "B": "077",
+   "C": "Fullcab AO Acid",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Alleyoop + Basic ",
+   "B": "078",
+   "C": "Fullcab AO X-Grind",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Alleyoop + Top + Basic ",
+   "B": "079",
+   "C": "Fullcab AO Fishbrain",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Alleyoop + Top + Basic ",
+   "B": "080",
+   "C": "Fullcab Kindgrind",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Alleyoop + Top + Basic ",
+   "B": "081",
+   "C": "Fullcab Misfit",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Alleyoop + Top + Basic ",
+   "B": "082",
+   "C": "Fullcab AO Top Pornstar",
+   "D": "4.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Alleyoop + Top + Basic ",
+   "B": "083",
+   "C": "Fullcab AO Top Soul",
+   "D": "4.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Alleyoop + Top + Basic ",
+   "B": "084",
+   "C": "Fullcab AO Top Acid",
+   "D": "4.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Truespin + Basic ",
+   "B": "085",
+   "C": "Fullcab Truespin Makio",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Truespin + Basic ",
+   "B": "086",
+   "C": "Fullcab Truespin Mizou",
+   "D": "4.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Truespin + Basic ",
+   "B": "087",
+   "C": "Fullcab Truespin Mistrial",
+   "D": "4.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Truespin + Basic ",
+   "B": "088",
+   "C": "Fullcab Truespin Pornstar",
+   "D": "4.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Truespin + Basic ",
+   "B": "089",
+   "C": "Fullcab Truespin Soul",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Truespin + Basic ",
+   "B": "090",
+   "C": "Fullcab Truespin Acid",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Truespin + Basic ",
+   "B": "091",
+   "C": "Fullcab Truespin X-Grind",
+   "D": "4.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Truespin + Top + Basic ",
+   "B": "092",
+   "C": "Fullcab Truespin Fishbrain",
+   "D": "6",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Truespin + Top + Basic ",
+   "B": "093",
+   "C": "Fullcab Truespin Kindgrind",
+   "D": "5.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Truespin + Top + Basic ",
+   "B": "094",
+   "C": "Fullcab Truespin Misfit",
+   "D": "5.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Truespin + Top + Basic ",
+   "B": "095",
+   "C": "Fullcab Truespin Top Pornstar",
+   "D": "5.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Truespin + Top + Basic ",
+   "B": "096",
+   "C": "Fullcab Truespin Top Soul",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Truespin + Top + Basic ",
+   "B": "097",
+   "C": "Fullcab Truespin Top Acid",
+   "D": "5.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Outspin + 540 + Basic",
+   "B": "098",
+   "C": "Fakie Outspin 540 Makio",
+   "D": "7",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Outspin + 540 + Basic",
+   "B": "099",
+   "C": "Fakie Outspin 540 Mizou",
+   "D": "7",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Outspin + 540 + Basic",
+   "B": "100",
+   "C": "Fakie Outspin 540 Mistrial",
+   "D": "7",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Outspin + 540 + Basic",
+   "B": "101",
+   "C": "Fakie Outspin 540 Pornstar",
+   "D": "7",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Outspin + 540 + Basic",
+   "B": "102",
+   "C": "Fakie Outspin 540 Soul",
+   "D": "7",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Outspin + 540 + Basic",
+   "B": "103",
+   "C": "Fakie Outspin 540 Acid",
+   "D": "7",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Outspin + 540 + Basic",
+   "B": "104",
+   "C": "Fakie Outspin 540 X-Grind",
+   "D": "7",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Outspin + 540 + Top + Basic",
+   "B": "105",
+   "C": "Fakie Outspin 540 Fishbrain",
+   "D": "9.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Outspin + 540 + Top + Basic",
+   "B": "106",
+   "C": "Fakie Outspin 540 Sweatstance",
+   "D": "9",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Outspin + 540 + Top + Basic",
+   "B": "107",
+   "C": "Fakie Outspin 540 Top Mistrial",
+   "D": "9",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Outspin + 540 + Top + Basic",
+   "B": "108",
+   "C": "Fakie Outspin 540 Top Pornstar",
+   "D": "9",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Outspin + 540 + Top + Basic",
+   "B": "109",
+   "C": "Fakie Outspin 540 Top Soul",
+   "D": "9",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Outspin + 540 + Top + Basic",
+   "B": "110",
+   "C": "Fakie Outspin 540 Top Acid",
+   "D": "9",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Inspin + 540 + Basic",
+   "B": "111",
+   "C": "Fakie Inspin 540 Makio",
+   "D": "8.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Inspin + 540 + Basic",
+   "B": "112",
+   "C": "Fakie Inspin 540 Mizou",
+   "D": "8",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Inspin + 540 + Basic",
+   "B": "113",
+   "C": "Fakie Inspin 540 Mistrial",
+   "D": "8",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Inspin + 540 + Basic",
+   "B": "114",
+   "C": "Fakie Inspin 540 Pornstar",
+   "D": "8",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Inspin + 540 + Basic",
+   "B": "115",
+   "C": "Fakie Inspin 540 Soul",
+   "D": "8",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Inspin + 540 + Basic",
+   "B": "116",
+   "C": "Fakie Inspin 540 Acid",
+   "D": "8",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fakie Inspin + 540 + Basic",
+   "B": "117",
+   "C": "Fakie Inspin 540 X-Grind",
+   "D": "8",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Inspin + 360 + Top + Basic ",
+   "B": "118",
+   "C": "Fakie Inspin 540 Fishbrain",
+   "D": "9.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Inspin + 360 + Top + Basic ",
+   "B": "119",
+   "C": "Fakie Inspin 540 Sweatstance",
+   "D": "9",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Inspin + 360 + Top + Basic ",
+   "B": "120",
+   "C": "Fakie Inspin 540 Top Mistrial",
+   "D": "9",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Inspin + 360 + Top + Basic ",
+   "B": "121",
+   "C": "Fakie Inspin 540 Top Pornstar",
+   "D": "9",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Inspin + 360 + Top + Basic ",
+   "B": "122",
+   "C": "Fakie Inspin 540 Top Soul",
+   "D": "9",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Inspin + 360 + Top + Basic ",
+   "B": "123",
+   "C": "Fakie Inspin 540 Top Acid",
+   "D": "9",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Alleyoop + Basic ",
+   "B": "124",
+   "C": "540 AO Makio",
+   "D": "8",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Alleyoop + Basic ",
+   "B": "125",
+   "C": "540 AO Mizou",
+   "D": "8",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Alleyoop + Basic ",
+   "B": "126",
+   "C": "540 AO Mistrial",
+   "D": "8",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Alleyoop + Basic ",
+   "B": "127",
+   "C": "540 AO Pornstar",
+   "D": "8.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Alleyoop + Basic ",
+   "B": "128",
+   "C": "540 AO Soul",
+   "D": "8",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Alleyoop + Basic ",
+   "B": "129",
+   "C": "540 AO Acid",
+   "D": "8",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Alleyoop + Basic ",
+   "B": "130",
+   "C": "540 AO X-Grind",
+   "D": "8",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Alleyoop + Top + Basic ",
+   "B": "131",
+   "C": "540 AO Fishbrain",
+   "D": "9",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Alleyoop + Top + Basic ",
+   "B": "132",
+   "C": "540 Kindgrind",
+   "D": "8.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Alleyoop + Top + Basic ",
+   "B": "133",
+   "C": "540 Misfit",
+   "D": "8.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Alleyoop + Top + Basic ",
+   "B": "134",
+   "C": "540 AO Top Pornstar",
+   "D": "9",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Alleyoop + Top + Basic ",
+   "B": "135",
+   "C": "540 AO Top Soul",
+   "D": "9",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Alleyoop + Top + Basic ",
+   "B": "136",
+   "C": "540 AO Top Acid",
+   "D": "9",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Truespin + Basic ",
+   "B": "137",
+   "C": "540 Truespin Makio",
+   "D": "9.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Truespin + Basic ",
+   "B": "138",
+   "C": "540 Truespin Mizou",
+   "D": "9",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Truespin + Basic ",
+   "B": "139",
+   "C": "540 Truespin Mistrial",
+   "D": "9",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Truespin + Basic ",
+   "B": "140",
+   "C": "540 Truespin Pornstar",
+   "D": "9.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Truespin + Basic ",
+   "B": "141",
+   "C": "540 Truespin Soul",
+   "D": "9.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Truespin + Basic ",
+   "B": "142",
+   "C": "540 Truespin Acid",
+   "D": "9.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "540 + Truespin + Basic ",
+   "B": "143",
+   "C": "540 Truespin X-Grind",
+   "D": "9",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Truespin + Top + Basic ",
+   "B": "144",
+   "C": "540 Truespin Fishbrain",
+   "D": "10",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Truespin + Top + Basic ",
+   "B": "145",
+   "C": "540 Truespin Sweatstance",
+   "D": "10",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Truespin + Top + Basic ",
+   "B": "146",
+   "C": "540 Truespin Top Mistrial",
+   "D": "10",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Truespin + Top + Basic ",
+   "B": "147",
+   "C": "540 Truespin Top Pornstar",
+   "D": "10",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Truespin + Top + Basic ",
+   "B": "148",
+   "C": "540 Truespin Top Soul",
+   "D": "9.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Fullcab + Truespin + Top + Basic ",
+   "B": "149",
+   "C": "540 Truespin Top Acid",
+   "D": "10",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Frontside",
+   "B": "150",
+   "C": "UFO",
+   "D": "1",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Frontside",
+   "B": "151",
+   "C": "Royalle",
+   "D": "1",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Frontside",
+   "B": "152",
+   "C": "Fulltorque",
+   "D": "1",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Frontside",
+   "B": "153",
+   "C": "Cabdriver",
+   "D": "1",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Frontside",
+   "B": "154",
+   "C": "Unity",
+   "D": "1.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Frontside",
+   "B": "155",
+   "C": "Savannah",
+   "D": "2",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Backside",
+   "B": "156",
+   "C": "BS UFO",
+   "D": "1",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Backside",
+   "B": "157",
+   "C": "BS Royalle",
+   "D": "1",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Backside",
+   "B": "158",
+   "C": "BS Fulltorque",
+   "D": "1",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Backside",
+   "B": "159",
+   "C": "BS Cabdriver",
+   "D": "1",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Backside",
+   "B": "160",
+   "C": "BS Unity",
+   "D": "1.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "Backside",
+   "B": "161",
+   "C": "BS Savannah",
+   "D": "2",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot Frontside",
+   "B": "162",
+   "C": "Backslide",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot Frontside",
+   "B": "163",
+   "C": "Torque",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot Frontside",
+   "B": "164",
+   "C": "Fastslide",
+   "D": "5",
+   "E": "yes",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot Frontside",
+   "B": "165",
+   "C": "Pudslide",
+   "D": "5",
+   "E": "yes",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot Backside",
+   "B": "166",
+   "C": "BS Backslide",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot Backside",
+   "B": "167",
+   "C": "BS Torque",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot Backside",
+   "B": "168",
+   "C": "BS Fastslide",
+   "D": "5",
+   "E": "yes",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot Backside",
+   "B": "169",
+   "C": "BS Pudslide",
+   "D": "5",
+   "E": "yes",
+   "F": "Grinds"
+ },
+ {
+   "A": "270 Outspin Backside",
+   "B": "170",
+   "C": "270 BS UFO",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "270 Outspin Backside",
+   "B": "171",
+   "C": "270 BS Royalle",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "270 Outspin Backside",
+   "B": "172",
+   "C": "270 BS Fulltorque",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "270 Outspin Backside",
+   "B": "173",
+   "C": "270 BS Cabdriver",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "270 Outspin Backside",
+   "B": "174",
+   "C": "270 BS Unity",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "270 Outspin Backside",
+   "B": "175",
+   "C": "270 BS Savannah",
+   "D": "3.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "270 Inspin Frontside",
+   "B": "176",
+   "C": "270 Inspin UFO",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "270 Inspin Frontside",
+   "B": "177",
+   "C": "270 Inspin Royalle",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "270 Inspin Frontside",
+   "B": "178",
+   "C": "270 Inspin Fulltorque",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "270 Inspin Frontside",
+   "B": "179",
+   "C": "270 Inspin Cabdriver",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "270 Inspin Frontside",
+   "B": "180",
+   "C": "270 Inspin Unity",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "270 Inspin Frontside",
+   "B": "181",
+   "C": "270 Inspin Savannah",
+   "D": "3.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 270 Inspin Backside",
+   "B": "182",
+   "C": "Inspin BS UFO",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 270 Inspin Backside",
+   "B": "183",
+   "C": "Inspin BS Royalle",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 270 Inspin Backside",
+   "B": "184",
+   "C": "Inspin BS Fulltorque",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 270 Inspin Backside",
+   "B": "185",
+   "C": "Inspin BS Cabdriver",
+   "D": "3.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 270 Inspin Backside",
+   "B": "186",
+   "C": "Inspin BS Unity",
+   "D": "3.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 270 Inspin Backside",
+   "B": "187",
+   "C": "Inspin BS Savannah",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 270 Outspin Frontside",
+   "B": "188",
+   "C": "Outspin UFO",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 270 Outspin Frontside",
+   "B": "189",
+   "C": "Outspin Royalle",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 270 Outspin Frontside",
+   "B": "190",
+   "C": "Outspin Fulltorque",
+   "D": "3",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 270 Outspin Frontside",
+   "B": "191",
+   "C": "Outspin Cabdriver",
+   "D": "3.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 270 Outspin Frontside",
+   "B": "192",
+   "C": "Outspin Unity",
+   "D": "4",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 270 Outspin Frontside",
+   "B": "193",
+   "C": "Outspin Savannah",
+   "D": "4.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot 270 Outspin Backside",
+   "B": "194",
+   "C": "270 BS Backslide",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot 270 Outspin Backside",
+   "B": "195",
+   "C": "270 BS Torque",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot 270 Outspin Backside",
+   "B": "196",
+   "C": "270 BS Fastslide",
+   "D": "6",
+   "E": "yes",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot 270 Outspin Backside",
+   "B": "197",
+   "C": "270 BS Pudslide",
+   "D": "6",
+   "E": "yes",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot 270 Inspin Frontside",
+   "B": "198",
+   "C": "270 Inspin Backslide",
+   "D": "5.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot 270 Inspin Frontside",
+   "B": "199",
+   "C": "270 Inspin Torque",
+   "D": "5.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot 270 Inspin Frontside",
+   "B": "200",
+   "C": "270 Inspin Fastslide",
+   "D": "6",
+   "E": "yes",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot 270 Inspin Frontside",
+   "B": "201",
+   "C": "270 Inspin Pudslide",
+   "D": "6",
+   "E": "yes",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) One-Foot 270 Outspin Frontside",
+   "B": "202",
+   "C": "Outspin Backslide",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) One-Foot 270 Outspin Frontside",
+   "B": "203",
+   "C": "Outspin Torque",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) One-Foot 270 Outspin Frontside",
+   "B": "204",
+   "C": "Outspin Fastslide",
+   "D": "5.5",
+   "E": "yes",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) One-Foot 270 Outspin Frontside",
+   "B": "205",
+   "C": "Outspin Pudslide",
+   "D": "5.5",
+   "E": "yes",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) One-Foot 270 Inspin Backside",
+   "B": "206",
+   "C": "Inspin BS Backslide",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) One-Foot 270 Inspin Backside",
+   "B": "207",
+   "C": "Inspin BS Torque",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) One-Foot 270 Inspin Backside",
+   "B": "208",
+   "C": "Inspin BS Fastslide",
+   "D": "6",
+   "E": "yes",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) One-Foot 270 Inspin Backside",
+   "B": "209",
+   "C": "Inspin BS Pudslide",
+   "D": "6",
+   "E": "yes",
+   "F": "Grinds"
+ },
+ {
+   "A": "450 Outspin Frontside",
+   "B": "210",
+   "C": "450 UFO",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "450 Outspin Frontside",
+   "B": "211",
+   "C": "450 Royalle",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "450 Outspin Frontside",
+   "B": "212",
+   "C": "450 Fulltorque",
+   "D": "5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "450 Outspin Frontside",
+   "B": "213",
+   "C": "450 Cabdriver",
+   "D": "5.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "450 Outspin Frontside",
+   "B": "214",
+   "C": "450 Unity",
+   "D": "6",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "450 Outspin Frontside",
+   "B": "215",
+   "C": "450 Savannah",
+   "D": "6",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "450 Inspin Backside",
+   "B": "216",
+   "C": "450 BS UFO",
+   "D": "6",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "450 Inspin Backside",
+   "B": "217",
+   "C": "450 BS Royalle",
+   "D": "6",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "450 Inspin Backside",
+   "B": "218",
+   "C": "450 BS Fulltorque",
+   "D": "6",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "450 Inspin Backside",
+   "B": "219",
+   "C": "450 BS Cabdriver",
+   "D": "6.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "450 Inspin Backside",
+   "B": "220",
+   "C": "450 BS Unity",
+   "D": "6.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "450 Inspin Backside",
+   "B": "221",
+   "C": "450 BS Savannah",
+   "D": "7",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 450 Inspin Frontside",
+   "B": "222",
+   "C": "Fakie 450 UFO",
+   "D": "7",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 450 Inspin Frontside",
+   "B": "223",
+   "C": "Fakie 450 Royalle",
+   "D": "7",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 450 Inspin Frontside",
+   "B": "224",
+   "C": "Fakie 450 Fulltorque",
+   "D": "7",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 450 Inspin Frontside",
+   "B": "225",
+   "C": "Fakie 450 Cabdriver",
+   "D": "7.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 450 Inspin Frontside",
+   "B": "226",
+   "C": "Fakie 450 Unity",
+   "D": "8",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 450 Inspin Frontside",
+   "B": "227",
+   "C": "Fakie 450 Savannah",
+   "D": "7",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 450 Outspin Backside",
+   "B": "228",
+   "C": "Fakie 450 BS UFO",
+   "D": "6",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 450 Outspin Backside",
+   "B": "229",
+   "C": "Fakie 450 BS Royalle",
+   "D": "6",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 450 Outspin Backside",
+   "B": "230",
+   "C": "Fakie 450 BS Fulltorque",
+   "D": "6",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 450 Outspin Backside",
+   "B": "231",
+   "C": "Fakie 450 BS Cabdriver",
+   "D": "6.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 450 Outspin Backside",
+   "B": "232",
+   "C": "Fakie 450 BS Unity",
+   "D": "7",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) 450 Outspin Backside",
+   "B": "233",
+   "C": "Fakie 450 BS Savannah",
+   "D": "6.5",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot 450 Outspin Frontside",
+   "B": "234",
+   "C": "450 Backslide",
+   "D": "7",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot 450 Outspin Frontside",
+   "B": "235",
+   "C": "450 Torque",
+   "D": "8",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot 450 Outspin Frontside",
+   "B": "236",
+   "C": "450 Fastslide",
+   "D": "9",
+   "E": "yes",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot 450 Outspin Frontside",
+   "B": "237",
+   "C": "450 Pudslide",
+   "D": "9",
+   "E": "yes",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot 450 Inspin Backside",
+   "B": "238",
+   "C": "450 BS Backslide",
+   "D": "7",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot 450 Inspin Backside",
+   "B": "239",
+   "C": "450 BS Torque",
+   "D": "7",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot 450 Inspin Backside",
+   "B": "240",
+   "C": "450 BS Fastslide",
+   "D": "9",
+   "E": "yes",
+   "F": "Grinds"
+ },
+ {
+   "A": "One-Foot 450 Inspin Backside",
+   "B": "241",
+   "C": "450 BS Pudslide",
+   "D": "9",
+   "E": "yes",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) One-Foot 450 Inspin Frontside",
+   "B": "242",
+   "C": "Fakie 450 Backslide",
+   "D": "9",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) One-Foot 450 Inspin Frontside",
+   "B": "243",
+   "C": "Fakie 450 Torque",
+   "D": "9",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) One-Foot 450 Inspin Frontside",
+   "B": "244",
+   "C": "Fakie 450 Fastslide",
+   "D": "10",
+   "E": "yes",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) One-Foot 450 Inspin Frontside",
+   "B": "245",
+   "C": "Fakie 450 Pudslide",
+   "D": "10",
+   "E": "yes",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) One-Foot 450 Outspin Backside",
+   "B": "246",
+   "C": "Fakie 450 BS Backslide",
+   "D": "8",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) One-Foot 450 Outspin Backside",
+   "B": "247",
+   "C": "Fakie 450 BS Torque",
+   "D": "8",
+   "E": "",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) One-Foot 450 Outspin Backside",
+   "B": "248",
+   "C": "Fakie 450 BS Fastslide",
+   "D": "10",
+   "E": "yes",
+   "F": "Grinds"
+ },
+ {
+   "A": "(Fakie) One-Foot 450 Outspin Backside",
+   "B": "249",
+   "C": "Fakie 450 BS Pudslide",
+   "D": "10",
+   "E": "yes",
+   "F": "Grinds"
+ }
+]

@@ -1,0 +1,56 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Create new account</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding *ngIf='profile!={}'>
+  <!-- {{ profile |json}} -->
+  <ion-grid style='height:100%'>
+    <ion-row align-items-center style='height:100%'>
+      <ion-col>
+        <ion-row>
+
+          <ion-col size='6' offset='3'>
+            <!-- <ion-img ></ion-img> -->
+            <!-- [src]="profile.image"  -->
+          </ion-col>
+        </ion-row>
+
+        <ion-row nowrap>
+          <ion-col size='6'>
+            <ion-input class='input' type=text placeholder='Nume' [(ngModel)]='profile.name'></ion-input>
+
+          </ion-col>
+          <ion-col size='6'>
+            <ion-input class='input' type=text placeholder='Prenume' [(ngModel)]='profile.surname'></ion-input>
+
+          </ion-col>
+        </ion-row>
+
+        <ion-row>
+          <ion-col size='10' offset='1'>
+            <ion-input class='input' type=text placeholder='{{profile.email}}' [(ngModel)]='profile.email'></ion-input>
+
+          </ion-col>
+        </ion-row>
+        <ion-row>
+          <ion-item>
+            <ion-checkbox checked="{{profile.terms}}" [(ngModel)]="profile.terms"></ion-checkbox>
+            <ion-label text-wrap>I agree to <a href="#">Terms of Use</a> and <a href="#">Privacy Policy</a></ion-label>
+            <!--  -->
+
+          </ion-item>
+
+        </ion-row>
+        <ion-row></ion-row>
+        <ion-row>
+          <ion-button (click)='Continue()' style='width:100%; height:50px; font-size: bold'> Continue
+          </ion-button>
+        </ion-row>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
+
+</ion-content>

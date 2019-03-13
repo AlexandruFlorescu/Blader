@@ -9,3 +9,66 @@
 @import '~@ionic/angular/css/text-alignment.css';
 @import '~@ionic/angular/css/text-transformation.css';
 @import '~@ionic/angular/css/flex-utils.css';
+
+
+
+$colors: (
+primary: #35B873, // buttons
+White: #FFFFFF, // text, active icons
+White50: rgba(255, 255, 255, .5), // (smaller) text, inactive icons
+White20: rgba(255, 255, 255, .2), // trick items background
+White10: rgba(255, 255, 255, .1), // some div containers
+
+purple: #391556, // header nav bg
+Purple90: rgba(57, 21, 86, .9), // modal overlays);
+);
+
+/* homescreen background image */
+// .background.scroll-content {
+//     background: url('assets/background.jpg') no-repeat;
+//     background-size: cover;
+// }
+
+ion-content{
+  background-image: url('/assets/background.jpg') !important;
+}
+
+.header{
+  background:map-get($colors, purple);
+}
+
+.smallGreyed{
+  font-size: 12px!important;
+  color: map-get($colors, White50);
+}
+
+.large-icon{
+  font-size: 32px!important;
+  text-align: center;
+}
+
+.panel{
+  background-color: map-get($colors, White10);
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+
+.item{
+  margin: 0px;
+  background-color: map-get($colors, White10);
+}
+.innerItem{
+  margin: 5px;
+}
+.input{
+  background-color: white;
+  color: black;
+  padding: 5px;
+  padding-left: 15px;
+  border-radius: 5px;
+
+}
+
+.loginButton{
+  background-color: blue;
+}
