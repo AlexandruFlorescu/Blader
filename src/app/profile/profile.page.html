@@ -1,66 +1,78 @@
 <ion-header>
   <ion-toolbar>
-    <ion-title><strong>Better</strong>Blader</ion-title>
+    <img height="16"  src = './assets/logo/bladebetter-logo@2x.png' style='margin-bottom:16px;margin-top:16px; margin-left: 8px; margin-right: 4px;'/>
   </ion-toolbar>
 </ion-header>
 
 <ion-content padding>
-  <ion-grid style='height:100%'>
+  <ion-grid style='height:100%' no-padding>
     <ion-row align-items-center style='height:100%'>
-      <ion-col>
-        <ion-row>
-          <ion-col size='6' offset='3'>
-            <ion-img [src]="profile.image" ></ion-img>
+      <ion-col no-padding>
+         <ion-row>
+           <ion-col size='6' offset='4'>
+             <img class='circleGreen' src="https://scontent.ftsr1-2.fna.fbcdn.net/v/t1.0-9/38848803_1350113675119792_2696364589934706688_n.jpg?_nc_cat=103&_nc_ht=scontent.ftsr1-2.fna&oh=3b5eb59611381afb62651d28e0615938&oe=5D3CE8BD"/>
 
           </ion-col>
         </ion-row>
-        <ion-row justify-content-center	align-items-center>
+        <ion-row justify-content-center	align-items-center class='margin8'>
           <ion-col size='6'>
-            <ion-row  justify-content-end>
+            <ion-row class='saira bold large' justify-content-end>
               {{profile.surname}}
 
             </ion-row>
           </ion-col>
-          <ion-col size='6'>
+          <ion-col class='saira bold large' size='6'>
             {{profile.name}}
           </ion-col>
         </ion-row>
-        <ion-row justify-content-center	 class='smallGreyed'>
-          Joined: {{profile.joinedat}}
+        <ion-row justify-content-center	 class='small greyed'>
+          Joined: {{profile.joinedat | date}}
         </ion-row>
-        <ion-row class='panel'>
-          <ion-col offset='1' class='smallGreyed'>
+        <ion-row class='panel margintop'>
+          <ion-col class='small'  [ngClass]="{'greyed': !profile.sessions>0}">
             <ion-row justify-content-center>
-              <img height="34" width="34" src = './assets/icons/goal@2x.png' style='opacity:0.5;'/>
+              <img *ngIf='profile.sessions>0' height="32" width="32" src = './assets/icons/goal@2x.png'  class='margin8'/>
+              <img *ngIf='!profile.sessions>0' height="32" width="32" src = './assets/icons/goal@2x.png' style='opacity:0.5;' class='margin8'/>
             </ion-row>
             <ion-row justify-content-center>
               {{profile.sessions}} Sessions
             </ion-row>
           </ion-col>
-          <ion-col class='smallGreyed'>
+          <ion-col class='small'  [ngClass]="{'greyed': !profile.sessions>0}">
             <ion-row align-items-center justify-content-center>
-              <img height="34" width="34" src = './assets/icons/circlecheckmark@2x.png' style='opacity:0.5;'/>
+              <img  *ngIf='profile.sessions>0' height="32" width="32" src = './assets/icons/circlecheckmark@2x.png'  class='margin8'/>
+              <img  *ngIf='!profile.sessions>0' height="32" width="32" src = './assets/icons/circlecheckmark@2x.png' style='opacity:0.5;' class='margin8'/>
             </ion-row>
             <ion-row align-items-center justify-content-center>
               {{profile.tricks}} Done
             </ion-row>
           </ion-col>
-          <ion-col class='smallGreyed'>
+          <ion-col class='small'  [ngClass]="{'greyed': !profile.sessions>0}">
             <ion-row  justify-content-center>
-              <img height="34" width="34" src = './assets/icons/clock@2x.png' style='opacity:0.5;'/>
+              <img *ngIf='profile.sessions>0' height="32" width="32" src = './assets/icons/clock@2x.png' class='margin8'/>
+              <img *ngIf='!profile.sessions>0' height="32" width="32" src = './assets/icons/clock@2x.png' style='opacity:0.5;' class='margin8'/>
             </ion-row>
             <ion-row justify-content-center>
-              {{profile.minutes}}m
+              {{profile.minutes | number: '1.0-0'}}m
             </ion-row></ion-col>
         </ion-row>
 
         <ion-row>
-          <ion-button (click)='continue()' style='width:100%; height:50px; font-size: bold'>
+          <ion-button class='buttonGreen margintop' (click)='continue()' style='width:100%; height:50px; font-size: bold'>
             <b><font size=3>
               New Session
             </font></b>
           </ion-button>
         </ion-row>
+        <ion-row>
+          <img class='feedbackImg' src="./assets/icons/circlecheckmark.png"><a class='feedback' href="mailto: paul@bladelife.tv">Feedback</a>
+        </ion-row>
+        <!-- <ion-row>
+          <ion-button expand='block' class='nobackground item-text-wrap'>Share</ion-button>
+        </ion-row>
+        <ion-row>
+          <ion-button expand='block' class='nobackground item-text-wrap'>Logout</ion-button>
+        </ion-row> -->
       </ion-col>
     </ion-row>
   </ion-grid>

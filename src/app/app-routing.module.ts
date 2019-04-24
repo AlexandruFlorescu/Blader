@@ -8,6 +8,9 @@ const routes: Routes = [
   { path: 'confirm-profile', loadChildren: './confirm-profile/confirm-profile.module#ConfirmProfilePageModule' },
   { path: 'new-session', loadChildren: './new-session/new-session.module#NewSessionPageModule' },
   { path: 'play', loadChildren: './play/play.module#PlayPageModule' },
+  { path: 'terms', loadChildren: './terms/terms.module#TermsPageModule' },
+  { path: 'privacy', loadChildren: './privacy/privacy.module#PrivacyPageModule' },
+
 ];
 
 @NgModule({

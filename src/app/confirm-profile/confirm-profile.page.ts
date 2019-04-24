@@ -1,10 +1,13 @@
 import { Component, OnInit } from '@angular/core';
 import { ToastController } from '@ionic/angular';
+import { ModalController } from '@ionic/angular';
 import { Router } from '@angular/router';
 
 import * as firebase from 'firebase/app';
 import { AngularFireAuth } from '@angular/fire/auth';
 import { Profile, ProfileService } from '../services/profile.service';
+import { PrivacyPage } from '../privacy/privacy.page';
+import { TermsPage } from '../terms/terms.page';
 
 @Component({
   selector: 'app-confirm-profile',
@@ -17,7 +20,7 @@ export class ConfirmProfilePage implements OnInit {
   userProfile=null;
   new=true;
 
-  constructor(public toastController: ToastController, private router: Router, private profileService: ProfileService) {
+  constructor(public toastController: ToastController,private modalController:ModalController, private router: Router, private profileService: ProfileService) {
   this.presentToast();
   firebase.auth().onAuthStateChanged( user => {
      if (user){
@@ -47,6 +50,19 @@ export class ConfirmProfilePage implements OnInit {
 
    toast.present();
  }
+
+ async presentTerms() {
+  const modal = await this.modalController.create({
+    component: TermsPage,
+  });
+  return await modal.present();
+}
+async presentPrivacy() {
+ const modal = await this.modalController.create({
+   component: PrivacyPage,
+  });
+ return await modal.present();
+}
 
  Continue(){
    this.saveProfile();

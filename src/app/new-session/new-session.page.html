@@ -4,42 +4,42 @@
   </ion-toolbar>
 </ion-header>
 
-<ion-content padding>
+<ion-content>
   <ion-grid style='height:100%'>
-     <ion-row align-items-center style='height:100%'>
+     <ion-row align-items-center style='height:80%'>
        <ion-col>
-    <ion-item class='panel'>
-      <!-- style='max-width:25%!important' -->
-      <ion-label><img src="./assets/icons/handrail@2x.png" width="20" height="20" class='padding'>Type:</ion-label>
-      <ion-select class='select' [(ngModel)] = "params.type">
-        <ion-select-option value="Grinds">Grinds</ion-select-option>
-        <ion-select-option value="Spins">Spins</ion-select-option>
-      </ion-select>
-    </ion-item>
+        <ion-item class='panel' lines="none">
+          <!-- style='max-width:25%!important' -->
+          <ion-label><img src="./assets/icons/handrail@2x.png" width="20" height="20" class='padding'>Type:</ion-label>
+          <ion-select class='select' [(ngModel)] = "params.type">
+            <ion-select-option value="Grinds">Grinds</ion-select-option>
+            <ion-select-option value="Spins">Spins</ion-select-option>
+          </ion-select>
+        </ion-item>
 
-    <ion-item class='panel'>
-      <ion-label><img src="./assets/icons/medal@2x.png" width="20" height="20" class='padding'>Level:</ion-label>
-      <ion-select class='select' [(ngModel)] = "params.level">
-        <ion-select-option value="easy">Easy</ion-select-option>
-        <ion-select-option value="moderate">Moderate</ion-select-option>
-        <ion-select-option value="pro">Pro</ion-select-option>
-        <ion-select-option value="goat">GOAT</ion-select-option>
-      </ion-select>
-    </ion-item>
+        <ion-item class='panel' lines="none">
+          <ion-label><img src="./assets/icons/medal@2x.png" width="20" height="20" class='padding'>Level:</ion-label>
+          <ion-select class='select' [(ngModel)] = "params.level">
+            <ion-select-option value="easy">Easy</ion-select-option>
+            <ion-select-option value="moderate">Moderate</ion-select-option>
+            <ion-select-option value="pro">Pro</ion-select-option>
+            <ion-select-option value="goat">GOAT</ion-select-option>
+          </ion-select>
+        </ion-item>
 
-    <ion-item class='panel'>
-      <ion-label><img src="./assets/icons/stance@2x.png" width="20" height="20" class='padding'>Stance:</ion-label>
-      <ion-select class='select' [(ngModel)] = "params.stance">
-        <ion-select-option value="natural">Natural</ion-select-option>
-        <ion-select-option value="switch">Switch</ion-select-option>
-        <ion-select-option value="natural&switch">Natural & Switch</ion-select-option>
-      </ion-select>
-    </ion-item>
+        <ion-item class='panel' lines="none">
+          <ion-label><img src="./assets/icons/stance@2x.png" width="20" height="20" class='padding'>Stance:</ion-label>
+          <ion-select class='select' [(ngModel)] = "params.stance">
+            <ion-select-option value="natural">Natural</ion-select-option>
+            <ion-select-option value="switch">Switch</ion-select-option>
+            <ion-select-option value="natural&switch">Natural & Switch</ion-select-option>
+          </ion-select>
+        </ion-item>
 
-    <ion-button (click)='start()' style='width:100%; height:50px; font-size: bold'>START</ion-button>
-
-    <ion-button class='button' style='width:100%; height:50px; font-size: bold' (click)='importTricks()'>Import Tricks(debug)</ion-button>
   </ion-col>
 </ion-row>
+<ion-button class='buttonGreen' (click)='start()' style='width:95%; height:50px; font-size: bold; position:fixed; bottom: 32px;'>START</ion-button>
+
+<!-- <ion-button class='button' style='width:100%; height:50px; font-size: bold' (click)='importTricks()'>Import Tricks(debug)</ion-button> -->
 </ion-grid>
 </ion-content>

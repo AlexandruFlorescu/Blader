@@ -1,26 +1,33 @@
 <ion-header>
   <ion-toolbar>
-    <ion-title>play</ion-title>
+    <img height="16"  src = './assets/logo/bladebetter-logo@2x.png' style='margin-left: 8px;'/>
     <ion-buttons slot='end'>
-      <ion-button (click)='goToCompleted()'>
-        <img height="34" width="34" src = './assets/icons/circlecheckmark@2x.png' style='opacity:0.5;'/>
-
+      <ion-button class='greyed' (click)='endSession()'>
+        End
       </ion-button>
     </ion-buttons>
   </ion-toolbar>
 </ion-header>
 
 <ion-content padding>
+
   <ion-list no-margin>
-    <ion-item *ngFor="let trick of tricks; let i=index " class='item' no-padding>
+    <ion-item *ngFor="let trick of tricks; let i=index " class='itemPanel' no-padding lines="none">
       <ion-label class='innerItem'>{{trick.name}}</ion-label>
       <ion-checkbox class='innerItem' slot="start" (click)='updateList(trick)'></ion-checkbox>
     </ion-item>
   </ion-list>
 
-  <ion-button (click)='endSession()' style='width:100%; height:50px; font-size: bold'>
+  <!-- <ion-button class='buttonGreen' (click)='endSession()' style='width:100%; height:50px; font-size: bold'>
     <b><font size=3>
       End Session
     </font></b>
-  </ion-button>
+  </ion-button> -->
+  <ion-grid>
+    <ion-row>
+      <img class='historyImg' src="./assets/icons/circlecheckmark.png">
+      <a class='history' (click)='goToCompleted()'>See trick history</a>
+
+    </ion-row>
+  </ion-grid>
 </ion-content>

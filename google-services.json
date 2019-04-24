@@ -15,16 +15,12 @@
       },
       "oauth_client": [
         {
-          "client_id": "870585135693-3uhs7pti118vbom8tdv5t66o5v1l7gd4.apps.googleusercontent.com",
+          "client_id": "870585135693-poadlevvckaoj24birb4kcjrcj36t8qg.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "io.ionic.BetterBlader",
-            "certificate_hash": "eb588c4863cd5be9ffa573f836aa146a07aa206b"
+            "certificate_hash": "dafcd055f7a540a9bd1fb422a3979886b95f8ef2"
           }
-        },
-        {
-          "client_id": "870585135693-0e8n1g9bftsumg667apkjn1fkr0igguj.apps.googleusercontent.com",
-          "client_type": 3
         }
       ],
       "api_key": [
@@ -33,11 +29,7 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
               "client_id": "870585135693-0e8n1g9bftsumg667apkjn1fkr0igguj.apps.googleusercontent.com",
@@ -51,9 +43,6 @@
               }
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }

@@ -1,6 +1,54 @@
+
 page-home{
 
     ion-content{
       display: none;
+    }
+  }
+
+  .button {
+
+    position: relative;
+    --ion-color-primary: transparent;
+    // padding: 18px 40px;
+    font-size: 16px;
+    width: 100%;
+
+    font-family: 'Saira', sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    letter-spacing: -0.5px;
+    text-transform: uppercase;
+    background-color: rgb(211, 72, 54);
+    border-radius: 8px;
+
+    border: 0;
+    outline: 0;
+
+    overflow: hidden;
+
+    &:before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 0;
+
+      width: 150%; height: 100%;
+
+      background-color: rgba(255,255,255,.1);
+
+      border-radius: 8px;
+
+      transform: rotate(-11deg);
+      transform-origin: -0.5% 90%;
+    }
+
+    span {
+      position: relative;
+      z-index: 1;
+
+      font-size: 20px;
+      color: #fff;
     }
   }

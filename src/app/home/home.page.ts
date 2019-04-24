@@ -33,6 +33,7 @@ export class HomePage {
   }
 continue(){
   this.router.navigateByUrl('confirm-profile')
+  this.router.navigateByUrl('confirm-profile')
 }
 
 continueWithFacebook(): Promise<any> {
@@ -85,14 +86,16 @@ continueWithFacebook(): Promise<any> {
 
   }
 
-  continueWithGoogle() {
+  async continueWithGoogle() {
     if (this.platform.is('cordova')) {
-      this.nativeGoogleLogin();
+      await this.nativeGoogleLogin();
     } else {
-      this.webGoogleLogin();
+      await this.webGoogleLogin();
       }
-    // this.continue();
+    this.router.navigateByUrl('confirm-profile')
+
     }
+
 
 signOut() {
   this.afAuth.auth.signOut();

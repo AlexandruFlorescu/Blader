@@ -10,6 +10,7 @@
 @import '~@ionic/angular/css/text-transformation.css';
 @import '~@ionic/angular/css/flex-utils.css';
 
+@import url('https://fonts.googleapis.com/css?family=Saira:400,600');
 
 
 $colors: (
@@ -30,35 +31,61 @@ Purple90: rgba(57, 21, 86, .9), // modal overlays);
 // }
 
 ion-content{
-  background-image: url('/assets/background.jpg') !important;
+  background-image: url('/assets/background.jpg')!important;
+  background-size: 100% 100%;
 }
 
 .header{
   background:map-get($colors, purple);
 }
 
-.smallGreyed{
+.small{
   font-size: 12px!important;
-  color: map-get($colors, White50);
 }
+.greyed{
+  color: map-get($colors, White50);
 
+}
 .large-icon{
   font-size: 32px!important;
   text-align: center;
 }
 
+.margin8{
+  margin-bottom: 8px;
+  margin-right: -16px;
+}
+.margintop{
+  margin-top: 16px!important;
+}
 .panel{
   background-color: map-get($colors, White10);
   margin-bottom: 10px;
   margin-top: 5px;
+  font-family: Roboto Regular;
+  font-size: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
 
-.item{
+.nobackground{
+   background: none!important;
+}
+.margintop{
+  margin-top: 24px;
+}
+
+.itemPanel{
   margin: 0px;
+  margin-bottom:8px;
   background-color: map-get($colors, White10);
+  border-radius: 3px;
 }
 .innerItem{
-  margin: 5px;
+  margin: 0px 5px;
+  margin-left: 12px;
+  // margin-left: 5px;
+
 }
 .input{
   background-color: white;
@@ -69,6 +96,125 @@ ion-content{
 
 }
 
-.loginButton{
-  background-color: blue;
+
+ ion-checkbox{
+   border-color: rgba(255,255,255,0.5) !important;
+   --border-color: rgba(255,255,255,0.5) !important;
+   margin-left: 8px;
+ }
+
+.noitem{
+  // margin-left: -10px;
+  margin-top: 10px;
+}
+
+.align{
+  margin-right: 10px;
+}
+
+.full{
+  margin-right: -10px;
+}
+
+.saira {
+  font-family: 'Saira', sans-serif;
+  font-weight: 300;
+  font-size: 21px;
+}
+
+a{
+  color: white;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.large{
+  font-size: large;
+  letter-spacing: 1px;
+}
+
+img.circle{
+  border-radius: 50%;
+  width: 80px;
+  border: 7px solid map-get($colors, White20);
+}
+img.circleGreen{
+  border-radius: 50%;
+  width: 80px;
+  border: 7px solid map-get($colors, primary);
+}
+
+.feedback{
+  margin-top: 20px;
+  margin-left: 12px;
+  text-decoration: none;
+
+}
+
+.feedbackImg{
+  width: 35px;
+  height: 35px;
+  margin-left: 15px;
+  margin-top: 24px;
+}
+
+.history{
+  margin-top: 16px;
+  margin-left: 12px;
+  text-decoration: none;
+}
+
+.historyImg{
+  width: 35px;
+  height: 35px;
+  margin-left: 15px;
+  margin-top: 8px;
+}
+
+.buttonGreen {
+  position: relative;
+  --ion-color-primary: transparent;
+  // padding: 18px 40px;
+  font-size: 18px;
+  width: 100%;
+  font-family: 'Saira', sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: -0.5px;
+  text-transform: uppercase;
+  background-color: #35B873;
+  border-radius: 8px;
+
+  border: 0;
+  outline: 0;
+
+  overflow: hidden;
+
+  &:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+
+    width: 150%; height: 100%;
+
+    background-color: rgba(255,255,255,.1);
+
+    border-radius: 4px;
+
+    transform: rotate(-11deg);
+    transform-origin: -0.5% 90%;
+  }
+
+  span {
+    position: relative;
+    z-index: 1;
+
+    font-size: 20px;
+    color: #fff;
+  }
+
 }

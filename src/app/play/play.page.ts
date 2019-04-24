@@ -228,7 +228,7 @@ constructor(private router: Router, private profileService: ProfileService, priv
     // console.log(this.minutes);
     var promins = Number(this.profile.minutes)
     promins += this.minutes;
-    promins = Number(promins).toFixed(1);
+    promins = Number(Number(promins).toFixed(0));
     this.profile.minutes = promins
     this.profileService.updateProfile(this.userProfile.uid, this.profile as Profile)
 
@@ -262,7 +262,7 @@ constructor(private router: Router, private profileService: ProfileService, priv
   //   );
   //   console.log('finished')
   // }
-  ngOnInit() {
+  ionViewDidEnter() {
     console.log('did enter');
     this.startDate = Date.now();
 

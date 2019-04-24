@@ -33,19 +33,6 @@ export class TrickService {
       })
     );
   }
-
-  // getTricks() {
-  //   console.log(this.tricks);
-  //   return this.db.collection<Trick>('tricks').snapshotChanges().pipe(
-  //     map(actions => {
-  //       return actions.map(a => {
-  //         const data = a.payload.doc.data();
-  //         const id = a.payload.doc.id;
-  //         return { id, ...data };
-  //       });
-  //     })
-  //   );
-  // }
   getTricks() {
     console.log(this.tricks);
     return this.tricks;

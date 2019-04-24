@@ -1,51 +1,56 @@
 <ion-header>
   <ion-toolbar>
-    <ion-title>Create new account</ion-title>
+    <ion-title class='saira'>Confirm your info</ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content padding *ngIf='profile!={}'>
   <!-- {{ profile |json}} -->
-  <ion-grid style='height:100%'>
-    <ion-row align-items-center style='height:100%'>
-      <ion-col>
+  <ion-grid style='height:100%' no-padding>
+    <ion-row align-items-center style='height:100%' >
+      <ion-col style="margin-top: -25px;" no-padding>
         <ion-row>
 
-          <ion-col size='6' offset='3'>
-            <!-- <ion-img ></ion-img> -->
-            <!-- [src]="profile.image"  -->
+          <ion-col size='6' offset='4'>
+            <img class='circle' src="https://scontent.ftsr1-2.fna.fbcdn.net/v/t1.0-9/38848803_1350113675119792_2696364589934706688_n.jpg?_nc_cat=103&_nc_ht=scontent.ftsr1-2.fna&oh=3b5eb59611381afb62651d28e0615938&oe=5D3CE8BD"/>
           </ion-col>
         </ion-row>
 
         <ion-row nowrap>
           <ion-col size='6'>
-            <ion-input class='input' type=text placeholder='Nume' [(ngModel)]='profile.name'></ion-input>
+            <ion-input class='input' type=text placeholder='Prenume' [(ngModel)]='profile.surname'></ion-input>
 
           </ion-col>
           <ion-col size='6'>
-            <ion-input class='input' type=text placeholder='Prenume' [(ngModel)]='profile.surname'></ion-input>
+            <ion-input class='input' type=text placeholder='Nume' [(ngModel)]='profile.name'></ion-input>
 
           </ion-col>
         </ion-row>
 
         <ion-row>
-          <ion-col size='10' offset='1'>
+          <ion-col size='12'>
             <ion-input class='input' type=text placeholder='{{profile.email}}' [(ngModel)]='profile.email'></ion-input>
 
           </ion-col>
         </ion-row>
         <ion-row>
-          <ion-item>
-            <ion-checkbox checked="{{profile.terms}}" [(ngModel)]="profile.terms"></ion-checkbox>
-            <ion-label text-wrap>I agree to <a href="#">Terms of Use</a> and <a href="#">Privacy Policy</a></ion-label>
-            <!--  -->
+          <!-- <ion-item class='noitem'> -->
+          <ion-col class='noitem' size=2>
+            <ion-checkbox class='align' checked="{{profile.terms}}" [(ngModel)]="profile.terms"></ion-checkbox>
 
-          </ion-item>
+          </ion-col>
+          <ion-col size=10>
+            <ion-label class='full' text-wrap>I agree to <a href="javascript:;" (click)='presentTerms()'>Terms of Use</a> and <a href="javascript:;" (click)='presentPrivacy()'>Privacy Policy</a></ion-label>
+
+          </ion-col>
+
+
+          <!-- </ion-item> -->
 
         </ion-row>
         <ion-row></ion-row>
         <ion-row>
-          <ion-button (click)='Continue()' style='width:100%; height:50px; font-size: bold'> Continue
+          <ion-button class='buttonGreen' (click)='Continue()' style='width:87%; height:50px; font-size: bold; position:fixed; bottom: 32px;'> <span>Continue</span>
           </ion-button>
         </ion-row>
       </ion-col>

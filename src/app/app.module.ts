@@ -2,6 +2,8 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { RouteReuseStrategy } from '@angular/router';
 import { CommonModule } from '@angular/common';
+import { Component } from '@angular/core';
+
 
 import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
 import { SplashScreen } from '@ionic-native/splash-screen/ngx';
@@ -19,6 +21,8 @@ import { AngularFirestore } from 'angularfire2/firestore';
 import { ProfileService } from './services/profile.service';
 import { TrickService } from './services/tricks.service';
 import { HttpClientModule } from '@angular/common/http';
+import { TermsPage } from './terms/terms.page';
+import { PrivacyPage } from './privacy/privacy.page';
 
 const firebaseConfig = {
   apiKey: "AIzaSyD7nTXcHWQERPSMl5SpOFx5ONQw0iMxI9M",
@@ -30,8 +34,8 @@ const firebaseConfig = {
 }
 
 @NgModule({
-  declarations: [AppComponent],
-  entryComponents: [],
+  declarations: [AppComponent, TermsPage, PrivacyPage],
+  entryComponents: [TermsPage, PrivacyPage],
   imports: [BrowserModule, CommonModule, IonicModule.forRoot(), AppRoutingModule, AngularFireModule.initializeApp(firebaseConfig), // <-- firebase here
     AngularFireAuthModule, HttpClientModule],
   providers: [
